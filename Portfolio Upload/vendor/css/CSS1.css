@@ -1,0 +1,24 @@
+.caroA{
+  background-color:black;
+}
+p{
+  font-family: 'Poppins', sans-serif;
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:10px;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  padding-top: 1px;
+}
+.carousel-control{
+  color:#000000;
+}
+a{
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:10px;
+}
+.custom{
+  width:25px;
+}
